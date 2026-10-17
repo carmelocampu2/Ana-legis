@@ -1,1 +1,6 @@
-Versión reconstruida 1.0. Subir todos los archivos sueltos a la raíz de un hosting HTTPS (p.ej. GitHub Pages). No abrir index.html directamente como file://: questions.json requiere servidor. 200 preguntas únicas; 188 de práctica, 8 bloqueadas y 4 anuladas. Las plantillas disponibles no están todas científicamente certificadas. Nota sin penalización por fallo. Historial en localStorage del dispositivo. No se ha publicado nada.
+ANA-LEGIS 1.2 · SOLO LEGISLACIÓN
+26 preguntas oficiales seleccionadas (2019 y 2023): 2 autonómicas de Murcia, 24 estatales. 24 para práctica y 2 bloqueadas. Incluye filtro por ámbito, conserva el historial de 1.1, corrige un fallo de caché del service worker.
+
+ACTUALIZACIÓN EN GITHUB: sustituye TODOS los 8 archivos en la raíz de Ana-legis, sin subir el ZIP como archivo único. No está publicado automáticamente.
+
+IMPORTANTE: No es un banco completo de legislación murciana. Las preguntas provienen de plantillas disponibles y no todas han sido certificadas jurídicamente; la normativa histórica puede diferir de la vigente.
