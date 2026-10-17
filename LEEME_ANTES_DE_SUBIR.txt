@@ -1,0 +1,5 @@
+ANA-LEGIS 2.0 — ENTREGA DE ESTABILIZACIÓN
+68 preguntas conservadas. 10 respuestas con contraste normativo favorable limitado; 58 sin cotejo independiente. No es una certificación jurídica integral.
+Se corrigen textos de la interfaz que presentaban respuestas no verificadas como procedentes de plantilla oficial y se renueva la caché de la PWA.
+Para GitHub: subir SOLO index.html, app.js, style.css, questions.json, manifest.json, icon.svg, sw.js. Los archivos CSV/TXT son documentación y no hacen falta para ejecutar la app.
+No se ha modificado GitHub.

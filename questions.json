@@ -18,14 +18,14 @@
     "origen": "Examen oficial Murcia 2019",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta contrastada con el precepto indicado. No equivale a validar la plantilla oficial del examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
-    "source_url": "",
-    "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+    "source_label": "Ley 14/1986, art. 56.1",
+    "review_tier": "CONTRASTE_NORMATIVO_FAVORABLE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "CONTRASTE_NORMATIVO_FAVORABLE",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -47,14 +47,14 @@
     "origen": "Examen oficial Murcia 2019",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta contrastada con el precepto indicado. No equivale a validar la plantilla oficial del examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
-    "source_url": "",
-    "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292",
+    "source_label": "Ley 31/1995, art. 14",
+    "review_tier": "CONTRASTE_NORMATIVO_FAVORABLE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "CONTRASTE_NORMATIVO_FAVORABLE",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -76,14 +76,14 @@
     "origen": "Examen oficial Murcia 2019",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -105,14 +105,14 @@
     "origen": "Examen oficial Murcia 2019",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -134,14 +134,14 @@
     "origen": "Examen oficial Murcia 2019",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -163,14 +163,14 @@
     "origen": "Examen oficial Murcia 2019",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -192,14 +192,14 @@
     "origen": "Examen oficial Murcia 2023",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -221,14 +221,14 @@
     "origen": "Examen oficial Murcia 2023",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -250,14 +250,14 @@
     "origen": "Examen oficial Murcia 2023",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -279,14 +279,14 @@
     "origen": "Examen oficial Murcia 2023",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -308,14 +308,14 @@
     "origen": "Examen oficial Murcia 2023",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -337,14 +337,14 @@
     "origen": "Examen oficial Murcia 2023",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -366,14 +366,14 @@
     "origen": "Examen oficial Murcia 2023",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -395,14 +395,14 @@
     "origen": "Examen oficial Murcia 2023",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -424,14 +424,14 @@
     "origen": "Examen oficial Murcia 2023",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -453,14 +453,14 @@
     "origen": "Examen oficial Murcia 2023",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -482,14 +482,14 @@
     "origen": "Examen oficial Murcia 2023",
     "scope": "estatal",
     "historical": false,
-    "legal_review": "Cotejo documental favorable; comprobar bases y fecha de convocatoria para usos oficiales.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "PLANTILLA_DISPONIBLE_NO_DEFINITIVA",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -511,7 +511,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "El artículo 1 delimita el ámbito territorial a la Comunidad Autónoma de la Región de Murcia. Fuente: https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 4/1994",
     "articulo": "1",
@@ -519,13 +519,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_label": "Ley 4/1994, artículo 1",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
-      "article": "1",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -547,7 +544,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "El artículo 5.b atribuye la aprobación al Consejo de Gobierno. Fuente: https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 4/1994",
     "articulo": "5",
@@ -555,13 +552,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_label": "Ley 4/1994, artículo 5",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
-      "article": "5",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -583,7 +577,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "El artículo 6.c atribuye esta función a la Consejería. Fuente: https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 4/1994",
     "articulo": "6",
@@ -591,13 +585,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_label": "Ley 4/1994, artículo 6",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
-      "article": "6",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -619,7 +610,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "El artículo 7.1.e incluye el control sanitario de cementerios y policía sanitaria mortuoria. Fuente: https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 4/1994",
     "articulo": "7",
@@ -627,13 +618,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_label": "Ley 4/1994, artículo 7",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
-      "article": "7",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -655,7 +643,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "El artículo 10.3 establece revisión y actualización periódicas, sin fijar un plazo concreto. Fuente: https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 4/1994",
     "articulo": "10",
@@ -663,13 +651,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_label": "Ley 4/1994, artículo 10",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
-      "article": "10",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -691,7 +676,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "El artículo 2.1 establece su aplicación al personal estatutario del SMS. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "2",
@@ -699,13 +684,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 2",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "2",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -727,7 +709,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "El artículo 4 enumera los tres primeros. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "4",
@@ -735,13 +717,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 4",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "4",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -763,7 +742,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "El artículo 6.1.c atribuye esta función al Consejo de Administración. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "6",
@@ -771,13 +750,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 6",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "6",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -799,7 +775,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "El artículo 2.f reconoce la participación comunitaria Fuente: https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 4/1994",
     "articulo": "2",
@@ -807,13 +783,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_label": "Ley 4/1994, artículo 2",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
-      "article": "2",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -835,7 +808,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "El artículo 4 exige expediente previo Fuente: https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 4/1994",
     "articulo": "4",
@@ -843,13 +816,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_label": "Ley 4/1994, artículo 4",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
-      "article": "4",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -871,7 +841,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 5.a Fuente: https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 4/1994",
     "articulo": "5",
@@ -879,13 +849,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_label": "Ley 4/1994, artículo 5",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
-      "article": "5",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -907,7 +874,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 6.e Fuente: https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 4/1994",
     "articulo": "6",
@@ -915,13 +882,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_label": "Ley 4/1994, artículo 6",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
-      "article": "6",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -943,7 +907,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 7.1.a Fuente: https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 4/1994",
     "articulo": "7",
@@ -951,13 +915,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_label": "Ley 4/1994, artículo 7",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
-      "article": "7",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -979,7 +940,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 9 Fuente: https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 4/1994",
     "articulo": "9",
@@ -987,13 +948,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_label": "Ley 4/1994, artículo 9",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
-      "article": "9",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1015,7 +973,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 10.4 Fuente: https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 4/1994",
     "articulo": "10",
@@ -1023,13 +981,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_label": "Ley 4/1994, artículo 10",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
-      "article": "10",
-      "note": "Art. 10.4: la Asamblea recibe el proyecto para conocimiento y alegaciones."
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1051,7 +1006,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 11.1 Fuente: https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 4/1994",
     "articulo": "11",
@@ -1059,13 +1014,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
     "source_label": "Ley 4/1994, artículo 11",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
-      "article": "11",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1087,7 +1039,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 5.1 Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "5",
@@ -1095,13 +1047,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 5",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "5",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1123,7 +1072,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 6.1.d Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "6",
@@ -1131,13 +1080,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 6",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "6",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1159,7 +1105,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 7.2.e; no confundir elaborar con aprobar Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "7",
@@ -1167,13 +1113,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 7",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "7",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1195,7 +1138,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 7.2.d Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "7",
@@ -1203,13 +1146,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 7",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "7",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1231,7 +1171,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 3.b. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "3",
@@ -1239,13 +1179,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 3",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "3",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1267,7 +1204,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 3.c. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "3",
@@ -1275,13 +1212,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 3",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "3",
-      "note": "Art. 3.c: inamovilidad en la relación de servicio, no en un puesto concreto."
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1303,7 +1237,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 3.e. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "3",
@@ -1311,13 +1245,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 3",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "3",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1339,7 +1270,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 3.i. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "3",
@@ -1347,13 +1278,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 3",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "3",
-      "note": "La respuesta es un principio literal del art. 3.i; la pregunta lo parafrasea."
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1375,7 +1303,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 2.2. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "2",
@@ -1383,13 +1311,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 2",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "2",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1411,7 +1336,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 2.3. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "2",
@@ -1419,13 +1344,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 2",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "2",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1447,7 +1369,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 5.1.d. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "5",
@@ -1455,13 +1377,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 5",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "5",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1483,7 +1402,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 5.2. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "5",
@@ -1491,13 +1410,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 5",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "5",
-      "note": "Art. 5.2: el Consejo de Gobierno decide las propuestas de resolución, previos informes y dictámenes."
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1519,7 +1435,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 5.1.c de la Ley 5/2001. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "5",
@@ -1527,13 +1443,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 5",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "5",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1555,7 +1468,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 1.1. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "1",
@@ -1563,13 +1476,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 1",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "1",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1591,7 +1501,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Artículo 3.h. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "3",
@@ -1599,13 +1509,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 3",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "3",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1627,7 +1534,7 @@
     "origen": "Original Ana-legis; no oficial",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "El artículo 3.d recoge la libre circulación del personal estatutario fijo en los términos establecidos por la normativa básica estatal. Fuente: https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "norma": "Ley 5/2001",
     "articulo": "3.d",
@@ -1635,13 +1542,10 @@
     "fuente": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
     "source_label": "Ley 5/2001, artículo 3.d",
-    "review_tier": "RESPALDO_NORMATIVO_PREVIO",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "CONTRASTE_DIRECTO_ARTICULO_BOE_2026-10-17",
-      "scope": "Respuesta prevista y alternativas comparadas con el artículo citado; texto consolidado informativo, no certificación oficial",
-      "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
-      "article": "3.d",
-      "note": ""
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1662,14 +1566,14 @@
     "origen": "Original Ana-legis basada en convocatoria oficial de diciembre de 2025",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Fundamento identificado en convocatoria publicada; revisión editorial adicional recomendada.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "BASES_CONVOCATORIA_PREVIAMENTE_CONTRASTADAS",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1690,14 +1594,14 @@
     "origen": "Original Ana-legis basada en convocatoria oficial de diciembre de 2025",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Fundamento identificado en convocatoria publicada; revisión editorial adicional recomendada.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "BASES_CONVOCATORIA_PREVIAMENTE_CONTRASTADAS",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1718,14 +1622,14 @@
     "origen": "Original Ana-legis basada en convocatoria oficial de diciembre de 2025",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Fundamento identificado en convocatoria publicada; revisión editorial adicional recomendada.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "BASES_CONVOCATORIA_PREVIAMENTE_CONTRASTADAS",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1746,14 +1650,14 @@
     "origen": "Original Ana-legis basada en convocatoria oficial de diciembre de 2025",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Fundamento identificado en convocatoria publicada; revisión editorial adicional recomendada.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "BASES_CONVOCATORIA_PREVIAMENTE_CONTRASTADAS",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1774,14 +1678,14 @@
     "origen": "Original Ana-legis basada en convocatoria oficial de diciembre de 2025",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Fundamento identificado en convocatoria publicada; revisión editorial adicional recomendada.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "BASES_CONVOCATORIA_PREVIAMENTE_CONTRASTADAS",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1802,14 +1706,14 @@
     "origen": "Original Ana-legis basada en convocatoria oficial de diciembre de 2025",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Fundamento identificado en convocatoria publicada; revisión editorial adicional recomendada.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "BASES_CONVOCATORIA_PREVIAMENTE_CONTRASTADAS",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   },
   {
@@ -1830,14 +1734,374 @@
     "origen": "Original Ana-legis basada en convocatoria oficial de diciembre de 2025",
     "scope": "murcia",
     "historical": false,
-    "legal_review": "Fundamento identificado en convocatoria publicada; revisión editorial adicional recomendada.",
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
     "review_status": "CONTRASTE_PREVIO; NO CERTIFICACION JURIDICA INDIVIDUAL",
     "source_url": "",
     "source_label": "",
-    "review_tier": "BASES_CONVOCATORIA_PREVIAMENTE_CONTRASTADAS",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
     "certification": {
-      "status": "NO_CERTIFICADO_EN_ESTA_FASE",
-      "scope": "Examen oficial o bases: cotejo independiente de documentos no completado"
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
+    }
+  },
+  {
+    "id": "MUR-AMPL-2026-2-001",
+    "year": 2026,
+    "num": 1,
+    "numB": null,
+    "question": "Según la Ley 4/1994, ¿qué equipamiento asistencial debe estar vinculado a cada Área de Salud?",
+    "options": {
+      "A": "Un hospital general, con los servicios que aconseje el Plan de Salud del Área",
+      "B": "Un laboratorio nacional de referencia",
+      "C": "Una unidad administrativa estatal de inspección",
+      "D": "Un hospital universitario de titularidad estatal"
+    },
+    "answer": "A",
+    "status": "PRACTICA_CON_AVISO",
+    "note": "Pregunta original; respuesta contrastada con Ley 4/1994, artículo 12.1.",
+    "materia": "Legislación autonómica Murcia",
+    "origen": "Original Ana-legis · ampliación jurídica 2026",
+    "scope": "autonomica",
+    "historical": false,
+    "legal_review": "Respuesta contrastada con el precepto indicado. No equivale a validar la plantilla oficial del examen.",
+    "review_status": "CONTRASTE_NORMATIVO_DIRECTO",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "source_label": "Ley 4/1994, arts. 10, 12 y 13",
+    "review_tier": "CONTRASTE_NORMATIVO_FAVORABLE",
+    "justificacion": "El artículo 12.1 dispone la vinculación de cada Área de Salud a un hospital general.",
+    "certification": {
+      "status": "CONTRASTE_NORMATIVO_FAVORABLE",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
+    }
+  },
+  {
+    "id": "MUR-AMPL-2026-2-002",
+    "year": 2026,
+    "num": 2,
+    "numB": null,
+    "question": "¿A qué órgano atribuye la Ley 4/1994 la aprobación y revisión del mapa sanitario regional?",
+    "options": {
+      "A": "A cada ayuntamiento de manera independiente",
+      "B": "A la Consejería competente en sanidad",
+      "C": "Al Ministerio de Justicia",
+      "D": "A las gerencias de los hospitales"
+    },
+    "answer": "B",
+    "status": "PRACTICA_CON_AVISO",
+    "note": "Pregunta original; respuesta contrastada con Ley 4/1994, artículo 12.2.",
+    "materia": "Legislación autonómica Murcia",
+    "origen": "Original Ana-legis · ampliación jurídica 2026",
+    "scope": "autonomica",
+    "historical": false,
+    "legal_review": "Respuesta contrastada con el precepto indicado. No equivale a validar la plantilla oficial del examen.",
+    "review_status": "CONTRASTE_NORMATIVO_DIRECTO",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "source_label": "Ley 4/1994, arts. 10, 12 y 13",
+    "review_tier": "CONTRASTE_NORMATIVO_FAVORABLE",
+    "justificacion": "El artículo 12.2 atribuye la aprobación y revisión del mapa sanitario a la Consejería de Sanidad.",
+    "certification": {
+      "status": "CONTRASTE_NORMATIVO_FAVORABLE",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
+    }
+  },
+  {
+    "id": "MUR-AMPL-2026-2-003",
+    "year": 2026,
+    "num": 3,
+    "numB": null,
+    "question": "¿Cuál de estos factores se cita expresamente para delimitar las Áreas de Salud de Murcia?",
+    "options": {
+      "A": "La afiliación sindical de los trabajadores",
+      "B": "La titularidad privada de todos los centros",
+      "C": "Los factores epidemiológicos y demográficos",
+      "D": "La preferencia exclusiva de cada hospital"
+    },
+    "answer": "C",
+    "status": "PRACTICA_CON_AVISO",
+    "note": "Pregunta original; respuesta contrastada con Ley 4/1994, artículo 12.1.",
+    "materia": "Legislación autonómica Murcia",
+    "origen": "Original Ana-legis · ampliación jurídica 2026",
+    "scope": "autonomica",
+    "historical": false,
+    "legal_review": "Respuesta contrastada con el precepto indicado. No equivale a validar la plantilla oficial del examen.",
+    "review_status": "CONTRASTE_NORMATIVO_DIRECTO",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "source_label": "Ley 4/1994, arts. 10, 12 y 13",
+    "review_tier": "CONTRASTE_NORMATIVO_FAVORABLE",
+    "justificacion": "El artículo 12.1 menciona factores demográficos y epidemiológicos, entre otros.",
+    "certification": {
+      "status": "CONTRASTE_NORMATIVO_FAVORABLE",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
+    }
+  },
+  {
+    "id": "MUR-AMPL-2026-2-004",
+    "year": 2026,
+    "num": 4,
+    "numB": null,
+    "question": "La Ley 4/1994 contempla centros de alta especialización cuyo ámbito de influencia...",
+    "options": {
+      "A": "Debe coincidir siempre con un solo municipio",
+      "B": "Se limita a una zona básica de salud",
+      "C": "No puede superar un Área de Salud",
+      "D": "Puede superar el territorio de un Área de Salud"
+    },
+    "answer": "D",
+    "status": "PRACTICA_CON_AVISO",
+    "note": "Pregunta original; respuesta contrastada con Ley 4/1994, artículo 12.1.",
+    "materia": "Legislación autonómica Murcia",
+    "origen": "Original Ana-legis · ampliación jurídica 2026",
+    "scope": "autonomica",
+    "historical": false,
+    "legal_review": "Respuesta contrastada con el precepto indicado. No equivale a validar la plantilla oficial del examen.",
+    "review_status": "CONTRASTE_NORMATIVO_DIRECTO",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "source_label": "Ley 4/1994, arts. 10, 12 y 13",
+    "review_tier": "CONTRASTE_NORMATIVO_FAVORABLE",
+    "justificacion": "El artículo 12.1 permite ámbitos de influencia superiores al Área para servicios de alta especialización.",
+    "certification": {
+      "status": "CONTRASTE_NORMATIVO_FAVORABLE",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
+    }
+  },
+  {
+    "id": "MUR-AMPL-2026-2-005",
+    "year": 2026,
+    "num": 5,
+    "numB": null,
+    "question": "Según el artículo 13, ¿qué función corresponde a las Áreas de Salud dentro de su ámbito territorial?",
+    "options": {
+      "A": "Distribuir recursos económicos destinados a financiar prestaciones del sistema sanitario",
+      "B": "Aprobar leyes autonómicas de salud",
+      "C": "Modificar el Estatuto de Autonomía",
+      "D": "Designar al titular de la Consejería"
+    },
+    "answer": "A",
+    "status": "PRACTICA_CON_AVISO",
+    "note": "Pregunta original; respuesta contrastada con Ley 4/1994, artículo 13.1.a.",
+    "materia": "Legislación autonómica Murcia",
+    "origen": "Original Ana-legis · ampliación jurídica 2026",
+    "scope": "autonomica",
+    "historical": false,
+    "legal_review": "Respuesta contrastada con el precepto indicado. No equivale a validar la plantilla oficial del examen.",
+    "review_status": "CONTRASTE_NORMATIVO_DIRECTO",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "source_label": "Ley 4/1994, arts. 10, 12 y 13",
+    "review_tier": "CONTRASTE_NORMATIVO_FAVORABLE",
+    "justificacion": "El artículo 13.1.a contempla la distribución de recursos económicos afectados a los servicios y prestaciones.",
+    "certification": {
+      "status": "CONTRASTE_NORMATIVO_FAVORABLE",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
+    }
+  },
+  {
+    "id": "MUR-AMPL-2026-2-006",
+    "year": 2026,
+    "num": 6,
+    "numB": null,
+    "question": "¿A través de qué dispositivos se prevé la organización y gestión de centros sanitarios por las Áreas de Salud?",
+    "options": {
+      "A": "Los de las diputaciones provinciales",
+      "B": "Los del Servicio Murciano de Salud",
+      "C": "Los de los juzgados de guardia",
+      "D": "Los de la Administración tributaria estatal"
+    },
+    "answer": "B",
+    "status": "PRACTICA_CON_AVISO",
+    "note": "Pregunta original; respuesta contrastada con Ley 4/1994, artículo 13.1.b.",
+    "materia": "Legislación autonómica Murcia",
+    "origen": "Original Ana-legis · ampliación jurídica 2026",
+    "scope": "autonomica",
+    "historical": false,
+    "legal_review": "Respuesta contrastada con el precepto indicado. No equivale a validar la plantilla oficial del examen.",
+    "review_status": "CONTRASTE_NORMATIVO_DIRECTO",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "source_label": "Ley 4/1994, arts. 10, 12 y 13",
+    "review_tier": "CONTRASTE_NORMATIVO_FAVORABLE",
+    "justificacion": "El artículo 13.1.b alude a los dispositivos del Servicio Murciano de Salud.",
+    "certification": {
+      "status": "CONTRASTE_NORMATIVO_FAVORABLE",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
+    }
+  },
+  {
+    "id": "MUR-AMPL-2026-2-007",
+    "year": 2026,
+    "num": 7,
+    "numB": null,
+    "question": "Los programas institucionales ejecutados por las Áreas de Salud deben ajustarse...",
+    "options": {
+      "A": "Exclusivamente al presupuesto municipal",
+      "B": "Únicamente a instrucciones de la Administración estatal",
+      "C": "Al Plan de Salud del Área y al de la Región de Murcia",
+      "D": "A la decisión individual de cada centro sin planificación"
+    },
+    "answer": "C",
+    "status": "PRACTICA_CON_AVISO",
+    "note": "Pregunta original; respuesta contrastada con Ley 4/1994, artículo 13.1.c.",
+    "materia": "Legislación autonómica Murcia",
+    "origen": "Original Ana-legis · ampliación jurídica 2026",
+    "scope": "autonomica",
+    "historical": false,
+    "legal_review": "Respuesta contrastada con el precepto indicado. No equivale a validar la plantilla oficial del examen.",
+    "review_status": "CONTRASTE_NORMATIVO_DIRECTO",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "source_label": "Ley 4/1994, arts. 10, 12 y 13",
+    "review_tier": "CONTRASTE_NORMATIVO_FAVORABLE",
+    "justificacion": "El artículo 13.1.c exige concordancia con el Plan de Salud del Área y el regional.",
+    "certification": {
+      "status": "CONTRASTE_NORMATIVO_FAVORABLE",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
+    }
+  },
+  {
+    "id": "MUR-AMPL-2026-2-008",
+    "year": 2026,
+    "num": 8,
+    "numB": null,
+    "question": "Antes de la aprobación del Plan de Salud regional, ¿con qué finalidad se remite su proyecto a la Asamblea Regional?",
+    "options": {
+      "A": "Para que sustituya al Consejo de Gobierno en su aprobación",
+      "B": "Para que nombre al gerente de cada hospital",
+      "C": "Para que convoque elecciones sanitarias",
+      "D": "Para conocimiento y aportación de alegaciones de los grupos parlamentarios"
+    },
+    "answer": "D",
+    "status": "PRACTICA_CON_AVISO",
+    "note": "Pregunta original; respuesta contrastada con Ley 4/1994, artículo 10.4.",
+    "materia": "Legislación autonómica Murcia",
+    "origen": "Original Ana-legis · ampliación jurídica 2026",
+    "scope": "autonomica",
+    "historical": false,
+    "legal_review": "Respuesta contrastada con el precepto indicado. No equivale a validar la plantilla oficial del examen.",
+    "review_status": "CONTRASTE_NORMATIVO_DIRECTO",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1994-22255",
+    "source_label": "Ley 4/1994, arts. 10, 12 y 13",
+    "review_tier": "CONTRASTE_NORMATIVO_FAVORABLE",
+    "justificacion": "El artículo 10.4 establece remisión para conocimiento y alegaciones.",
+    "certification": {
+      "status": "CONTRASTE_NORMATIVO_FAVORABLE",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
+    }
+  },
+  {
+    "id": "MUR-AMPL-2026-2-009",
+    "year": 2026,
+    "num": 9,
+    "numB": null,
+    "question": "Según la Ley 5/2001, ¿qué órgano ratifica, dentro de su competencia, los acuerdos alcanzados con la representación sindical?",
+    "options": {
+      "A": "El Consejo de Administración del SMS",
+      "B": "La Asamblea Regional como órgano de gestión ordinaria",
+      "C": "El Consejo Escolar regional",
+      "D": "Cada ayuntamiento"
+    },
+    "answer": "A",
+    "status": "PRACTICA_CON_AVISO",
+    "note": "Pregunta original; respuesta contrastada con Ley 5/2001, artículo 6.1.b.",
+    "materia": "Legislación autonómica Murcia",
+    "origen": "Original Ana-legis · ampliación jurídica 2026",
+    "scope": "autonomica",
+    "historical": false,
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
+    "review_status": "CONTRASTE_NORMATIVO_DIRECTO",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "source_label": "Ley 5/2001, art. 6.1.b",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
+    "justificacion": "El artículo 6.1.b atribuye esta ratificación al Consejo de Administración.",
+    "certification": {
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
+    }
+  },
+  {
+    "id": "MUR-AMPL-2026-2-010",
+    "year": 2026,
+    "num": 10,
+    "numB": null,
+    "question": "En relación con las plantillas de personal, ¿qué competencia tiene el Consejo de Administración del SMS?",
+    "options": {
+      "A": "Aprobar individualmente todas las contrataciones temporales",
+      "B": "Conocer las plantillas y sus modificaciones antes de su aprobación",
+      "C": "Resolver los expedientes judiciales del personal",
+      "D": "Sustituir al Director Gerente en todas sus funciones"
+    },
+    "answer": "B",
+    "status": "PRACTICA_CON_AVISO",
+    "note": "Pregunta original; respuesta contrastada con Ley 5/2001, artículo 6.1.f.",
+    "materia": "Legislación autonómica Murcia",
+    "origen": "Original Ana-legis · ampliación jurídica 2026",
+    "scope": "autonomica",
+    "historical": false,
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
+    "review_status": "CONTRASTE_NORMATIVO_DIRECTO",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "source_label": "Ley 5/2001, art. 6.1.f",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
+    "justificacion": "El artículo 6.1.f dispone conocimiento previo de las plantillas y sus modificaciones.",
+    "certification": {
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
+    }
+  },
+  {
+    "id": "MUR-AMPL-2026-2-011",
+    "year": 2026,
+    "num": 11,
+    "numB": null,
+    "question": "¿Cuándo exige el artículo 6.2 negociación previa en la Mesa de Negociación del SMS?",
+    "options": {
+      "A": "En todos los casos, sin excepción legal",
+      "B": "Solo cuando lo pida un ayuntamiento",
+      "C": "En los casos establecidos por la normativa aplicable",
+      "D": "Únicamente después de aprobar cada medida"
+    },
+    "answer": "C",
+    "status": "PRACTICA_CON_AVISO",
+    "note": "Pregunta original; respuesta contrastada con Ley 5/2001, artículo 6.2.",
+    "materia": "Legislación autonómica Murcia",
+    "origen": "Original Ana-legis · ampliación jurídica 2026",
+    "scope": "autonomica",
+    "historical": false,
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
+    "review_status": "CONTRASTE_NORMATIVO_DIRECTO",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "source_label": "Ley 5/2001, art. 6.2",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
+    "justificacion": "El artículo 6.2 remite a los supuestos en que la normativa aplicable exige negociación.",
+    "certification": {
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
+    }
+  },
+  {
+    "id": "MUR-AMPL-2026-2-012",
+    "year": 2026,
+    "num": 12,
+    "numB": null,
+    "question": "¿A quién corresponde aprobar las medidas que garanticen servicios mínimos durante una huelga en centros del SMS?",
+    "options": {
+      "A": "Al Consejo Escolar",
+      "B": "A la gerencia de cada área de salud exclusivamente",
+      "C": "A la Asamblea Regional en pleno",
+      "D": "Al Consejo de Gobierno de la Región de Murcia"
+    },
+    "answer": "D",
+    "status": "PRACTICA_CON_AVISO",
+    "note": "Pregunta original; respuesta contrastada con Ley 5/2001, artículo 5.1.d.",
+    "materia": "Legislación autonómica Murcia",
+    "origen": "Original Ana-legis · ampliación jurídica 2026",
+    "scope": "autonomica",
+    "historical": false,
+    "legal_review": "Respuesta de práctica no certificada individualmente. Consultar norma o plantilla oficial antes de utilizarla como referencia de examen.",
+    "review_status": "CONTRASTE_NORMATIVO_DIRECTO",
+    "source_url": "https://www.boe.es/buscar/act.php?id=BORM-s-2001-90010",
+    "source_label": "Ley 5/2001, art. 5.1.d",
+    "review_tier": "SIN_COTEJO_INDEPENDIENTE",
+    "justificacion": "El artículo 5.1.d atribuye esta función al Consejo de Gobierno.",
+    "certification": {
+      "status": "NO_CERTIFICADO",
+      "scope": "Revisión documental limitada; sin certificación de plantilla oficial"
     }
   }
 ]

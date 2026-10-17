@@ -1,1 +1,5 @@
-Descomprime el ZIP. En tu repositorio GitHub, Add file > Upload files. Selecciona los 7 archivos de la carpeta descomprimida y confirma Commit changes. Deben quedar en la raiz del repositorio, no dentro de otra carpeta. Esta version contiene 56 preguntas de practica; 32 tienen contraste normativo previo documentado, pero no existe certificacion juridica integral. GitHub no ha sido modificado automaticamente.
+ANA-LEGIS 2.0: 68 preguntas (56 anteriores + 12 originales con fundamento jurídico).
+Para actualizar GitHub, subir los 7 archivos de la raíz a la rama de Pages.
+Se conservan identificadores anteriores y almacenamiento local del progreso.
+El texto consolidado BOE tiene carácter informativo; las 12 nuevas se han contrastado con sus artículos, pero no están certificadas por una autoridad externa.
+No se ha actualizado GitHub automáticamente.
